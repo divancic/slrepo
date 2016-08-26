@@ -6,4 +6,6 @@
 int
 dorian(void) {
   printf ("Dorianov i ne tako loš modul!\n");
+  printf ("Dodao novi redak\n");
+
 }
