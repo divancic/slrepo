@@ -5,5 +5,5 @@
 
 int
 sabrina(void) {
-  printf ("Sabrinin modul!\n");
+  printf ("Sabrinin super modul!\n");
 }
