@@ -5,5 +5,5 @@
 
 int
 luka(void) {
-  printf ("Lukin modul!\n");
+  printf ("Luka, The GIT master!\n");
 }
