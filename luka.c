@@ -5,5 +5,5 @@
 
 int
 luka(void) {
-  printf ("Luka, The GIT master!\n");
+  printf ("Luka, još nije GIT master!\n");
 }
