@@ -5,5 +5,5 @@
 
 int
 dorian(void) {
-  printf ("Dorianov modul!\n");
+  printf ("Dorianov shitty modul!\n");
 }
